@@ -16,7 +16,7 @@
 “one-size-fits-all” standard formulation of vanilla Transformer suffers from two critical flaws for real-world time series:
 - inherent lag effects, where the relevance of historical timestamps to a query varies dynamically; 
 - anomalous segments, which introduce noisy signals that degrade forecasting accuracy
-![](fig/intro.png)
+![](fig/Intro.png)
 
 ### 2️⃣ Architecture
 
