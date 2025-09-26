@@ -1,8 +1,8 @@
 <div align="center">
 <h1>TimeExpert </h1>
 <h3>TimeExpert: Boosting Long Time Series Forecasting with Temporal Mix of Experts</h3>
- [[Paper Link]()]
-
+ 
+[[Paper Link]()]
 </div>
 
 ## 🔥 News
@@ -20,7 +20,7 @@
 
 ### 2️⃣ Architecture
 
-![](fig/TimeExpert_workflow.png)
+![](fig/TimeExpert_Workflow.png)
 
 ### 3️⃣ Performance
 
