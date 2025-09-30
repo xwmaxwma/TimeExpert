@@ -2,7 +2,7 @@
 <h1>TimeExpert </h1>
 <h3>TimeExpert: Boosting Long Time Series Forecasting with Temporal Mix of Experts</h3>
  
-[[Paper Link]()]
+[[Paper Link](https://arxiv.org/abs/2509.23145)]
 </div>
 
 ## 🔥 News
@@ -61,11 +61,19 @@
 If you are interested in our work, please consider giving a 🌟 and citing our work below.
 
 ```
-
+@misc{timeexpert,
+      title={TimeExpert: Boosting Long Time Series Forecasting with Temporal Mix of Experts}, 
+      author={Xiaowen Ma and Shuning Ge and Fan Yang and Xiangyu Li and Yun Chen and Mengting Ma and Wei Zhang and Zhipeng Liu},
+      year={2025},
+      eprint={2509.23145},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2509.23145}, 
+}
 ```
 
 
 
 ## 💡Acknowledgment
 
-Thanks to the main contributor **Shuning Ge**.
+Thanks to the main contributor [Shuning Ge](https://github.com/EurekaMsuga).
